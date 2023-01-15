@@ -2,7 +2,7 @@
 
 📚 A Software Engineer with a BSc from NTNU Norway in informatics.
 
-🎓 Currently pursuing a MSc in Informatics, with specialization in Software Engineering at University of California, Berkeley.
+🎓 Currently pursuing a MSc in Software Engineering at University of California, Berkeley.
 
 <!--
 **Mariuble/Mariuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
