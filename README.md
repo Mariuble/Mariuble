@@ -16,6 +16,7 @@
   
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-FF1211?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
