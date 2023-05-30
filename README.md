@@ -13,6 +13,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
+  
   
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-FF1211?style=flat-square&logo=ruby&logoColor=white" />
