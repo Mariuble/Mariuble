@@ -3,11 +3,12 @@
 📚 A Software Engineer with a BSc from NTNU Norway in informatics.  
 🎓 Currently pursuing a MSc in Software Engineering at University of California, Berkeley.
 
-<h3>Things I code with</h3>
+<h3>Tech I use:</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-F7B93E?style=flat-square&logo=Csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-E34F26?style=flat-square&logo=.NET&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-2123231?style=flat-square&logo=MicrosoftAzure&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-787cb5?style=flat-square&logo=PHP&logoColor=white" />
   
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
