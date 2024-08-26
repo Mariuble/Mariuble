@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariuslerstein/)
 
 📚 Software Engineer with a **Bachelor's Degree** in Informatics from the Norwegian University of Science and Technology (NTNU).  
-🎓 Pursuing a **Master's Degree** with a dual focus on Artificial Intelligence and Software Engineering.  
+🎓 Informatics **Master's Degree** with a dual focus on Artificial Intelligence and Software Engineering.  
 🌍 **International Exposure** in Computer Science during an academic tenure at the University of California, Berkeley.  
 
 <h3>Languages and Tools ⚙️</h3>
